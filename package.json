@@ -1,0 +1,26 @@
+{
+  "name": "express-server-test",
+  "version": "1.0.0",
+  "description": "Testing express server",
+  "homepage": "https://github.com/angelhdz-s/express-server-test#readme",
+  "bugs": {
+    "url": "https://github.com/angelhdz-s/express-server-test/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angelhdz-s/express-server-test.git"
+  },
+  "license": "ISC",
+  "author": "angelhdz-s",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "cookie-parser": "1.4.7",
+    "dotenv": "17.3.1",
+    "express": "5.2.1"
+  }
+}
